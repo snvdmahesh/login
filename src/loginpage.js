@@ -41,7 +41,7 @@ function loginpage() {
             <button className="login-button" type="submit">
               Log In
             </button>
-            <h7 className=''>ForgotPassword?</h7>
+            <span>ForgotPassword?</span>
           <div>
           </div>
         </form>
